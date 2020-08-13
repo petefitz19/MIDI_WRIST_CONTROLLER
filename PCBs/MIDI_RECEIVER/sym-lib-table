@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MIDI_RECEIVER-rescue)(type Legacy)(uri ${KIPRJMOD}/MIDI_RECEIVER-rescue.lib)(options "")(descr ""))
+)

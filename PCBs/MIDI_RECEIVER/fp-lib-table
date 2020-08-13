@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name promicro)(type KiCad)(uri /Applications/KiCad/User_Symbols/promicro.pretty)(options "")(descr ""))
+  (lib (name SDS-50J)(type Legacy)(uri /Applications/KiCad/User_Symbols/SDS-50J/SDS-50J.mod)(options "")(descr ""))
+)

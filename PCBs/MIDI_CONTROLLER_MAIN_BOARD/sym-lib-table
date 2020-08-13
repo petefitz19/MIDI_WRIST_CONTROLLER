@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MIDI_CONTROLLER_MAIN_BOARD-rescue)(type Legacy)(uri ${KIPRJMOD}/MIDI_CONTROLLER_MAIN_BOARD-rescue.lib)(options "")(descr ""))
+)
